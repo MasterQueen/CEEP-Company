@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">锦鲤(企业)</string>
+
+    //校招
+    <string name="school_postion">在招职位</string>
+    <string name="school_request">招聘要求</string>
+    <string name="school_address">宣讲地点</string>
+    <string name="school_time">宣讲时间</string>
+    <string name="school_people">负责人</string>
+    <string name="school_ok">发布</string>
+
+    //社招
+    <string name="society_postion">在招职位</string>
+    <string name="society_request">招聘要求</string>
+    <string name="society_address">招聘地点</string>
+    <string name="society_time">招聘时间</string>
+    <string name="society_people">负责人</string>
+    <string name="society_ok">发布</string>
+
+    //登录
+    <string name="company_name">公司名称</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    
+    //发布信息
+    <string name="postion">在招职位</string>
+    <string name="request">招聘要求</string>
+    <string name="address">地点</string>
+    <string name="time">时间</string>
+    <string name="people">负责人</string>
+
+    //注册
+    <string name="title_name">欢迎加入锦鲤(企业端）</string>
+    <string name="ltitle_name">用实力·博人生</string>
+    <string name="register_company_name">公司名称</string>
+    <string name="register_password">登录密码</string>
+    <string name="register_intro">公司简介</string>
+
+    //用户协议
+    <string name="title">用户协议</string>
+    <string name="textview">注册本软件之后，用户对使用本软件进行的操作有所有的解释权利。用户有责任和义务对发布的信息进行负责，以及承担发布信息所
+    造成的所有后过。</string>
+    <string name="agreemaent">同意</string>
+    <string name="ok">确定</string>
+
+</resources>
